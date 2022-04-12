@@ -1,4 +1,4 @@
-# Hi  🖖
+# Greetings  🖖
 I am a happy and proud woman to have become an engineer, so I love technical challenges.
 
 At one point in my life, my environment pushes me towards design, UI and UX. I learned a lot, but my passion is code, and I enjoy designing architecture.
