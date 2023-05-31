@@ -11,4 +11,3 @@ If I had to summarize my role in one sentence, it would be "Full Stack developer
 
 https://jimenaeb.notion.site/Jimena-Berm-dez-db28ec23bcab45afb9f5d5efdd7a9e59
 
-[![Jimena's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimenaeb)](https://github.com/anuraghazra/github-readme-stats)
